@@ -1,1 +1,1 @@
-# july2022-python
+# Smoothstack: July 2022 Cloud Cohort
