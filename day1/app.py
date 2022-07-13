@@ -6,7 +6,10 @@ print(50 + 50)
 print(100 - 10)
 
 #2
-
+print("30+*6 doesn't work.")
+print(6^6)
+print(6 ** 6)
+print(6 + 6 + 6 + 6 + 6 + 6)
 
 #3
 print("Hello World")
